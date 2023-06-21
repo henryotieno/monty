@@ -6,7 +6,7 @@
 bus_t bus = {NULL, NULL, NULL, 0};
 
 /**
-* main - function for monty code interpreter
+* main - funct for monty code interpreter
 * @argc: argument count
 * @argv: argument value
 * Return: 0 on success

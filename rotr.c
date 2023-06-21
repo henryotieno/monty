@@ -1,10 +1,9 @@
 #include "monty.h"
 
 /**
-* f_rotr - function that rotates the stack to the bottom
-* @head: stack head of the stack
+* f_rotr - funct that rotates the stack to the last
+* @head: stack head
 * @counter: line count
-*
 * Return: nothing
 */
 
