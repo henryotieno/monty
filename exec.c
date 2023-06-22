@@ -6,7 +6,6 @@
 * @counter: line count
 * @file: monty file pointer
 * @content: line content
-*
 * Return: nothing
 */
 int execute(char *content, stack_t **stack, unsigned int counter, FILE *file)

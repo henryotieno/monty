@@ -14,7 +14,7 @@
 * @n: integer
 * @prev: points to the previous element
 * @next: points to the succeeding element of the stack
-* Description: doubly linked list node struct
+* Description: linked list node struct
 */
 typedef struct stack_s
 {
